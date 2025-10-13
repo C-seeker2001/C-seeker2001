@@ -8,9 +8,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=C-seeker2001&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="115" alt="streak graph" hspace="5" />
 </div>
 
-
 ###
-
 
 ###
 
@@ -36,7 +34,7 @@
   <img src="./discord.svg" height="200" alt="Discord" /></a>
   <img src="./gitHub.svg" height="200" alt="Discord" /></a>
   <img src="./discord.svg" height="200" alt="Discord" /></a>
-  <img src="./gitHub.svg" height="200" alt="Discord" /></a>
+  <img src="./linkedIn.svg" height="200" alt="Discord" /></a>
 </div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -48,7 +46,8 @@
 ###
 
 ---
-## 👨‍💻 I'm a Software Engineer who loves building elegant solutions 👌 *chef’s kiss*
+
+## 👨‍💻 I'm a Software Engineer who loves building elegant solutions 👌 _chef’s kiss_
 
 I enjoy turning messy or boring tasks into simple tools that actually make life easier.  
 I’m still early in my journey, but I love exploring how automation, small scripts, and clean design can make a real difference.  
@@ -64,7 +63,7 @@ Currently, I’m focused on learning the deeper system logic, improving my code 
 
 ## 💡 My Philosophy
 
-I don’t build tools *just to code*,  I build them to **reshape boring, repetitive work** into something smarter and faster.  
+I don’t build tools _just to code_, I build them to **reshape boring, repetitive work** into something smarter and faster.  
 For me, the motivation ("the WHY") always matters more than the technology stack.
 
 ## 📝 My Blog
@@ -73,7 +72,6 @@ I recently started a personal blog hosted on GitHub Pages, it’s my way of expl
 There, I write about automation, system design, and personal workflows, and sometimes about completely different things like home labbing, anime reviews, philosophy, or random thoughts.
 
 👉 **[Visit my blog](https://c-seeker2001.github.io/)** to see how I think, build, and experiment.
-
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/C-seeker2001/C-seeker2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
