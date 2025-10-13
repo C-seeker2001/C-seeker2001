@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500px" height="500px">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 200 idth="500px" height="500px">
    <defs>
       <style type="text/css">
          /* The @keyframes rule defines the animation steps. */
@@ -15,7 +15,7 @@
          /* Apply the 'wobble' animation, make it last 4 seconds, and loop infinitely. */
          animation: wobble 4s infinite ease-in-out;
          /* Set the origin for the transform to the center of the icon (25, 25). */
-         transform-origin: 25px 25px; 
+         transform-origin: 128px 100px;  
          }
       </style>
    </defs>
