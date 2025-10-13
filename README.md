@@ -4,9 +4,9 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=C-seeker2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="145" alt="stats graph" hspace="5" / >
-  <img height="145" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTR0M2M2bzFwYzB2YWhlZTZlaXJpa3IwN3l5bjYwemN2cW4zYjlkciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xUA7b8VnHVOMeTawFO/giphy.gif" />
-  <img src="https://streak-stats.demolab.com?user=C-seeker2001&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="145" alt="streak graph" hspace="5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C-seeker2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="135" alt="stats graph" hspace="5" / >
+  <img height="135" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTR0M2M2bzFwYzB2YWhlZTZlaXJpa3IwN3l5bjYwemN2cW4zYjlkciZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xUA7b8VnHVOMeTawFO/giphy.gif" />
+  <img src="https://streak-stats.demolab.com?user=C-seeker2001&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="135" alt="streak graph" hspace="5" />
 </div>
 
 
