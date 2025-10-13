@@ -1,7 +1,6 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Yassen Redwan</h2>
 
 ###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C-seeker2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="115" alt="stats graph" hspace="5" / >
@@ -43,6 +42,33 @@
 ###
 
 ---
+## 👨‍💻 I'm a Software Engineer who loves building elegant solutions 👌 *chef’s kiss*
+
+I enjoy turning messy or boring tasks into simple tools that actually make life easier.  
+I’m still early in my journey, but I love exploring how automation, small scripts, and clean design can make a real difference.  
+Currently, I’m focused on learning the deeper system logic, improving my code structure, and understanding how things work under the hood.
+
+## 🤔 What I Do
+
+- **Automation & Integration**  
+  Building browser extensions, Python scripts, and Odoo custom logic to connect business systems, from real-time order tracking to cross-company stock transfers.
+
+- **System Optimization & Infrastructure**  
+  Experimenting with **Docker, virtualization (Hyper-V / GPU partitioning), and Jellyfin media setups** to explore performance, caching, and distributed resource management.
+
+## 💡 My Philosophy
+
+I don’t build tools *just to code*,  I build them to **reshape boring, repetitive work** into something smarter and faster.  
+For me, the motivation ("the WHY") always matters more than the technology stack.
+
+## 📝 My Blog
+
+I recently started a **personal blog** hosted on GitHub Pages, it’s my way of explaining the *value* behind my projects rather than just showing code.\
+There, I write about how I approach automation, system design, and personal workflows.\
+Sometimes about completely different stuff like **home labbing, anime reviews, philosophy, and random thoughts**
+
+👉 **[Visit my blog](https://your-blog-link.github.io](https://c-seeker2001.github.io/))** to see how I think, build, and experiment.
+
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/C-seeker2001/C-seeker2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
