@@ -8,25 +8,11 @@
       attributeName="transform"
       attributeType="XML"
       type="scale"
-      from="1"
-      to="1.2"
-      dur="0.2s"
-      begin="mouseover"
-      fill="freeze"
-      additive="sum"
-      restart="whenNotActive"/>
-
-    <animateTransform 
-      attributeName="transform"
-      attributeType="XML"
-      type="scale"
-      from="1.2"
-      to="1"
-      dur="0.2s"
-      begin="mouseout"
-      fill="freeze"
-      additive="sum"
-      restart="whenNotActive"/>
+      values="1; 1.2; 1"
+      keyTimes="0; 0.5; 1"
+      dur="2s"
+      repeatCount="indefinite"
+      additive="sum"/>
 
     <animateTransform
       attributeName="transform"
@@ -36,6 +22,5 @@
       keyTimes="0; 0.1; 0.3; 0.5; 0.7; 1"
       dur="0.4s"
       repeatCount="indefinite"
-      begin="githubIcon.mouseover + 0.2s"  end="mouseout"/>
-  </g>
+      begin="0s"/> </g>
 </svg>
