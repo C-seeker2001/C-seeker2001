@@ -63,11 +63,10 @@ For me, the motivation ("the WHY") always matters more than the technology stack
 
 ## 📝 My Blog
 
-I recently started a **personal blog** hosted on GitHub Pages, it’s my way of explaining the *value* behind my projects rather than just showing code.\
-There, I write about how I approach automation, system design, and personal workflows.\
-Sometimes about completely different stuff like **home labbing, anime reviews, philosophy, and random thoughts**
+I recently started a personal blog hosted on GitHub Pages, it’s my way of explaining the value behind my projects rather than just sharing code.
+There, I write about automation, system design, and personal workflows, and sometimes about completely different things like home labbing, anime reviews, philosophy, or random thoughts.
 
-👉 **[Visit my blog](https://your-blog-link.github.io](https://c-seeker2001.github.io/))** to see how I think, build, and experiment.
+👉 **[Visit my blog](https://c-seeker2001.github.io/)** to see how I think, build, and experiment.
 
 
 <br clear="both">
