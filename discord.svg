@@ -1,0 +1,21 @@
+<!-- Trying with embedding social icons as seprate SVG's-->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="35" viewBox="0 0 200 35" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <image id="badge" filter="url(#glow)"
+    href="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+    x="0" y="0" width="200" height="35" />
+
+  <!-- Float -->
+  <animateTransform xlink:href="#badge" attributeName="transform" type="translate"
+    values="0 0; 0 -1; 0 0; 0 1; 0 0" dur="4s" repeatCount="indefinite" />
+  <!-- Gentle pulse -->
+  <animateTransform xlink:href="#badge" attributeName="transform" type="scale" additive="sum"
+    values="1; 1.03; 1" dur="2.8s" repeatCount="indefinite" />
+</svg>
