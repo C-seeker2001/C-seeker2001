@@ -79,7 +79,7 @@ There, I write about automation, system design, and personal workflows, and some
   <a href="mailto:yasseninfo@gmail.com" target="_blank">
     <img src="./assets/svg/email1.svg" height="150" alt="email" />
   </a>
-  <a href="https://www.linkedin.com/in/yassin-redwan-b1a67221a/" target="_blank">
+  <a rel="noopener noreferrer" href="https://www.linkedin.com/in/yassin-redwan-b1a67221a/" target="_blank">
     <img src="./assets/svg/linkedIn.svg" height="150" alt="LinkedIn"/>
   </a>
 </div>
