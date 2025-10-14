@@ -13,9 +13,6 @@
 ---
 
 <div align="center">
-  <!-- <img src="./discord.svg" height="200" alt="Discord" /></a> -->
-  <!-- <img src="./gitHub.svg" height="200" alt="Discord" /></a> -->
-  <!-- <img src="./discord.svg" height="200" alt="Discord" /></a> -->
   <img src="./gitHub-DVD-animation.svg" height="400" alt="Discord" /></a> 
 </div>
 
@@ -73,7 +70,19 @@ There, I write about automation, system design, and personal workflows, and some
 
 👉 **[Visit my blog](https://c-seeker2001.github.io/)** to see how I think, build, and experiment.
 
+## 🛜 Connect with me:
+
+<div align="center">
+  <a href="https://discord.com/users/494888765190307840" target="_blank">
+    <img src="./assets/svg/discord.svg" height="150" alt="Discord" />
+  </a>
+  <a href="mailto:yasseninfo@gmail.com" target="_blank">
+    <img src="./assets/svg/email1.svg" height="150" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yassin-redwan-b1a67221a/" target="_blank">
+    <img src="./assets/svg/linkedIn.svg" height="150" alt="LinkedIn"/>
+  </a>
+</div>
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/C-seeker2001/C-seeker2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
