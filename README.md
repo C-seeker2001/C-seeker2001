@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="./gitHub-DVD-animation.svg" height="400" alt="Discord" /></a> 
+  <img src="./assets/svg/gitHub-DVD-animation.svg" height="400" alt="Discord" /></a> 
 </div>
 
 ###
@@ -35,12 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-<!-- <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div> -->
 
 ---
 
@@ -77,7 +71,7 @@ There, I write about automation, system design, and personal workflows, and some
     <img src="./assets/svg/discord.svg" height="150" alt="Discord" />
   </a>
   <a href="mailto:yasseninfo@gmail.com" target="_blank">
-    <img src="./assets/svg/email1.svg" height="150" alt="email" />
+    <img src="./assets/svg/email.svg" height="150" alt="email" />
   </a>
   <a rel="noopener noreferrer" href="https://www.linkedin.com/in/yassin-redwan-b1a67221a/" target="_blank">
     <img src="./assets/svg/linkedIn.svg" height="150" alt="LinkedIn"/>
